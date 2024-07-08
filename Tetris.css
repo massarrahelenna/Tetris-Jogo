@@ -1,13 +1,1 @@
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    background-color: #f0f0f0;
-    margin: 0;
-}
 
-canvas {
-    border: 1px solid #4a75a5;
-    background-color: #8edcb8;
-}
